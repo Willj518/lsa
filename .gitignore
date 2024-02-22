@@ -1,0 +1,72 @@
+# Folder view configuration files
+######################
+.DS_Store
+Desktop.ini
+
+# Thumbnail cache files
+######################
+._*
+Thumbs.db
+
+# Files that might appear on external disks
+######################
+.Spotlight-V100
+.Trashes
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+Desktop.ini
+.DS_Store?
+ehthumbs.db
+Icon?
+Thumbs.db
+*.DS_Store
+
+# Xcode
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.xcuserstate
+project.xcworkspace/
+xcuserdata/
+
+# Application specific files
+######################
+.env
+venv
+node_modules
+.sass-cache
+
+# Crash log files
+crash.log
+
+# IDE
+*.idea
+*.iml
+
+# Generated files
+/web-app/WEB-INF
+build/
+*.[oa]
+*.pyc
+
+# Other source repository archive directories (protects when importing)
+.hg
+.svn
+CVS
+
+# automatic backup files
+*~.nib
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
